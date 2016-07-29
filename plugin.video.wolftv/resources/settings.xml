@@ -1,0 +1,6 @@
+<settings>
+	<category label="[COLOR red][B]ADD PATHS[/B][/COLOR]">	
+		<setting label="[COLOR red][B]URL to xml playlist[/B][/COLOR]" type="text"  id="online_xml" default="http://www.abaol.com/Master" />		
+			
+	</category>
+</settings>
